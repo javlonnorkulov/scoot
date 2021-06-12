@@ -361,6 +361,55 @@ h1,h2,h3,h4{
     line-height: 48px;
     color: #FFFFFF;
     letter-spacing: -2.14286px;
-    margin-top: 102px;
 }
+.footertop__appstore{
+    margin-left: 230px;
+}
+.footertop__playmarket{
+    margin-left: 18px;
+    
+}
+.footer2{
+    height: 96px;
+    background-color: #333A44;
+    display: flex;
+    align-items: center;
+}
+.footerbottom{
+    display: flex;
+    align-items: center;
+    
+}
+.footerbottom img{
+    
+}
+.footerbottom__menu{
+    display: flex;
+    margin-left: 58px;
+}
+.footerbottom__menu__item{
+    margin-left: 32px;
+    
+}
+.footerbottom__menu__item__link{
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+    color: #939CAA;
+}
+.footerbottom__menu__item__link:hover{
+    color: #FCB72B;
+}
+.footerbottom__logos{
+    display: flex;
+    margin-left: 440px;
+}
+.footerbottom__logos svg{
+    fill:#FCB72B;
+    margin-left: 24px;
+}
+.footerbottom__logos svg:hover{
+    fill:white;
+}
+
 
